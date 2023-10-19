@@ -52,8 +52,8 @@ spec:
 ```
 
 ### 3. Запуск Vault
-#### Создаем под и сервис, испоьзуя написанный манифест:
-    $ minikube kubectl -- create -f deployment.yaml
+#### Создаем под и сервис, используя написанный манифест:
+    $ minikube kubectl -- create -f vault.yaml
 
 #### Перенаправление запросов на pod
     $ minikube kubectl -- port-forward service/vault-service 8200:8200
