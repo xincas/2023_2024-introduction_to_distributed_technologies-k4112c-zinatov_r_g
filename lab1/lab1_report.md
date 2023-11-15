@@ -6,7 +6,7 @@ Group: K4112с \
 Author: Zinatov Rakhim Gamirovich \
 Lab: Lab1 \
 Date of create: 17.10.2023 \
-Date of finished: <none>
+Date of finished: 19.10.2023
 
 
 ### 1. Запуск minikube
